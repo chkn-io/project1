@@ -41,4 +41,4 @@ Route::post('/register',[AuthController::class,'register'])->name('register');
 
 
 // Sample Notes
-echo 1;
+echo 3;
